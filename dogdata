@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Tofu",
+    "age": 4,
+    "breed": "Mastiff",
+    "temperament": "Calm, Gentle, Protective",
+    "image_url": "data not provided, this will need to be replaced"
+  },
+  {
+    "name": "Bella",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "temperament": "Friendly, Loyal, Playful",
+    "image_url": "data not provided, this will need to be replaced"
+  },
+  {
+    "name": "Max",
+    "age": 5,
+    "breed": "Labrador Retriever",
+    "temperament": "Affectionate, Energetic, Patient",
+    "image_url": "data not provided, this will need to be replaced"
+  },
+  {
+    "name": "Charlie",
+    "age": 2,
+    "breed": "Cocker Spaniel",
+    "temperament": "Gentle, Loving, Alert",
+    "image_url": "data not provided, this will need to be replaced"
+  },
+  {
+    "name": "Lucy",
+    "age": 6,
+    "breed": "Bernese Mountain Dog",
+    "temperament": "Calm, Patient, Affectionate",
+    "image_url": "data not provided, this will need to be replaced"
+  },
+  {
+    "name": "Daisy",
+    "age": 4,
+    "breed": "Cavalier King Charles Spaniel",
+    "temperament": "Friendly, Quiet, Adaptable",
+    "image_url": "data not provided, this will need to be replaced"
+  }
+]
